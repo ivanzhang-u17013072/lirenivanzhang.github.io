@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am striving to be a great designer and developer.
 
-  ## Languages
+  ## **Languages:**
   - English \- First additional language
   - Cantonese \- Native
 
@@ -49,7 +49,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  ##Skills
+  ## **Skills:**
   - HTML5 & CSS 3
   - JavaScript & JQuery
   - ES6
@@ -59,7 +59,7 @@ more_content: | # this will include new lines to allow paragraphs
   - Adobe Photoshop
   - Adobe Illustrator
 
-  ##Interests
+  ## **Interests:**
   Some of my interests that I spend my free time on.
   - Drawing
   - Music
