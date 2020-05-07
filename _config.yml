@@ -3,7 +3,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Li-Ren Ivan Zhang
+name: Li Ren Ivan Zhang
 title: BIS Multimedia student
 email: laprenivanzhang@gmail.com
 phone: 074 374 7245
@@ -17,7 +17,7 @@ github_username:  lirenivanzhang
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: li ren ivan zhang
+linkedin_username: li-ren-ivan-zhang-45a11718a
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -27,13 +27,9 @@ linkedin_username: li ren ivan zhang
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
-    - Tables
-    - Links
-    - Images
+  Hi, I am student, front end developer, and designer, currently studying BIS Multimedia at the University of Pretoria.
+  I love to draw and create things! Any type of things, such as coding a new software that does something fun, or simply just drawing to express my creativity.
+  For those wondering, I am fluent in English and able to speak Cantonese :D
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
