@@ -6,8 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Li Ren Ivan Zhang
 title: BIS Multimedia student
 email: laprenivanzhang@gmail.com
-phone: 074 374 7245
-cv   : "resume.pdf"
+#phone: 
+#cv   : "resume.pdf"
 #website: Your website (eg. https://google.com)(optional)
 
 # Social links
