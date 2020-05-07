@@ -1,5 +1,15 @@
 # Experience template
 - layout: left
+  company: 123Tutors
+  link: https://www.123tutors.co.za/
+  job_title: Front End Developer
+  dates: 2019 - Present
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    The job involves developing and designing the front end for a tutoring website along with a tutor matching system for a tutoring company.
+    
+- layout: left
   company: Spec Skills
   link: http://specski.co.za/
   job_title: UI Developer
@@ -9,12 +19,4 @@
   description: | # this will include new lines to allow paragraphs
     The job involved developing and designing a simple website for a legal consultancy firm.
 
-- layout: left
-  company: 123Tutors
-  link: https://www.123tutors.co.za/
-  job_title: Front End Developer
-  dates: 2019 - Present
-  quote: >
 
-  description: | # this will include new lines to allow paragraphs
-    The job involves developing and designing the front end for a tutoring website along with a tutor matching system for a tutoring company.

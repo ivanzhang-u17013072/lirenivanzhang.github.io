@@ -28,8 +28,14 @@ linkedin_username: li-ren-ivan-zhang-45a11718a
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am student, front end developer, and designer, currently studying BIS Multimedia at the University of Pretoria.
+
   I love to draw and create things! Any type of things, such as coding a new software that does something fun, or simply just drawing to express my creativity.
-  For those wondering, I am fluent in English and able to speak Cantonese :D
+
+  I am striving to be a great designer and developer.
+
+  ##Languages
+  - English \- First additional language
+  - Cantonese \- Native
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -43,9 +49,22 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  ##Skills
+  - HTML5 & CSS 3
+  - JavaScript & JQuery
+  - ES6
+  - PHP
+  - C++
+  - Java
+  - Adobe Photoshop
+  - Adobe Illustrator
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  ##Interests
+  Some of my interests that I spend my free time on.
+  - Drawing
+  - Music
+  - Video games
+  - 3D modelling
 
 # Footer
 footer_show_references: true
