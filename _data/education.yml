@@ -1,9 +1,13 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: University of Pretoria
+  dates: 2017 - 2020
+  qualification: BIS Multimedia
   quote: >
-    Short institution or course description (optional)
+    Breathe life into technology
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Modern information technology offers the possibility of information products being designed and created comprising various types of media over and above the traditional text medium. Information technology is therefore converging various previously separate traditional media. There is not a single discipline that handles the combination of information products. The Multimedia qualification in the Department of Information Science addresses this shortcoming. Any type of institution in all economic spheres, including government, may profit from a multimedia approach to information design, organization and retrieval.
+
+    Multimedia documents include text, graphics, sound, video and animation. The purpose of this qualification is to enable students to understand the necessary concepts to build multimedia products and maintain the products. This programme is therefore a combination of theory and practice.
+
+    The explosion of the Web, as well as the exponential growth and power of information technology requires the introduction of this degree following international trends. The qualification is a new field of study not offered at other local universities. 

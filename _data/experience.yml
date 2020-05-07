@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Spec Skills
+  link: http://specski.co.za/
+  job_title: UI Developer
+  dates: December 2019
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    The job involved developing and designing a simple website for a legal consultancy firm.
